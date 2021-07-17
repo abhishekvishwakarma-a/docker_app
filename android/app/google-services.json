@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1084161140212",
+    "firebase_url": "https://fludoc-default-rtdb.firebaseio.com",
+    "project_id": "fludoc",
+    "storage_bucket": "fludoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084161140212:android:c5adc07c3416817d2785a1",
+        "android_client_info": {
+          "package_name": "com.example.fludoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084161140212-f732i80l6cdljd893dt5rt2qu5hrjbua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPuZzbinLJQ-IGpIvmYzBzBPOR4LFsN3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084161140212-f732i80l6cdljd893dt5rt2qu5hrjbua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
